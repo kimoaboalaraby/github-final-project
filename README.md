@@ -1,4 +1,4 @@
-﻿# Simple Interest Calculator
+# Simple Interest Calculator
 
 A simple, lightweight command-line calculator written in Bash to calculate simple interest based on the principal amount, annual rate of interest, and time period in years.
 
@@ -79,13 +79,13 @@ The simple interest is:
 
 ``text
 github-final-project/
-├── .github/              # Issue and PR templates
-├── CODE_OF_CONDUCT.md    # Contributor Covenant Code of Conduct
-├── CONTRIBUTING.md       # Guidelines for contributors
-├── LICENSE               # Apache License 2.0
-├── README.md             # Project documentation
-├── compound_interest.py  # Compound interest calculator script
-└── simple-interest.sh    # Simple interest calculator Bash script
++-- .github/              # Issue and PR templates
++-- CODE_OF_CONDUCT.md    # Contributor Covenant Code of Conduct
++-- CONTRIBUTING.md       # Guidelines for contributors
++-- LICENSE               # Apache License 2.0
++-- README.md             # Project documentation
++-- compound_interest.py  # Compound interest calculator script
++-- simple-interest.sh    # Simple interest calculator Bash script
 ``
 
 ---
@@ -98,4 +98,4 @@ All contributions, bug reports, bug fixes, documentation improvements, enhanceme
 
 ## License
 
-This project is licensed under the Apache License 2.0 (Official). See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License 2.0 (Official Version). See the [LICENSE](LICENSE) file for details.
